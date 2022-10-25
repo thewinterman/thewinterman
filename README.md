@@ -1,4 +1,13 @@
-### Hi there 👋
+# about:human
+
+I like systems and IT
+
+- Microsoft user since 2000
+- MacOS user since 2000
+- Linux user since 2010
+- Arch Linux since 2021
+
+Currently at 42 School
 
 <!--
 **thewinterman/thewinterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
