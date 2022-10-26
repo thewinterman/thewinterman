@@ -10,11 +10,11 @@ I like systems and IT
 Currently at 42 School
 
 ```quote
-... no one ever mistakenly writes a letter to "Mr. 428 Elmhurst St." living at "Robert Smith."
-    A pointer is exactly the same. ...
+<< ... no one ever mistakenly writes a letter to "Mr. 428 Elmhurst St." living at "Robert Smith."
+    A pointer is exactly the same. ... >>
     Reek, K. (1997) Pointer on C
-    
 ```
+Suuuure so obvious 😬
 
 <!--
 **thewinterman/thewinterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
