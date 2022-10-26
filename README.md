@@ -12,7 +12,7 @@ Currently at 42 School
 ```quote
 << ... no one ever mistakenly writes a letter to "Mr. 428 Elmhurst St." living at "Robert Smith."
     A pointer is exactly the same. ... >>
-    Reek, K. (1997) Pointer on C
+                                                                    Reek, K. (1997) Pointer on C
 ```
 Suuuure so obvious 😬
 
