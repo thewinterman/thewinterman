@@ -2,9 +2,8 @@
 
 I like systems and IT
 
-- Microsoft user since 2000
-- MacOS user since 2000
-- Linux user since 2010
+- Microsoft & MacOS since 2000
+- Linux since 2010
 - Arch Linux since 2021
 
 Currently at 42 School
