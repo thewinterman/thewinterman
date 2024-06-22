@@ -6,8 +6,6 @@ I like systems and IT
 - Linux since 2010
 - Arch Linux since 2021
 
-Currently at 42 School
-
 ```quote
 << ... no one ever mistakenly writes a letter to "Mr. 428 Elmhurst St." living at "Robert Smith."
     A pointer is exactly the same. ... >>
