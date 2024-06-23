@@ -6,13 +6,6 @@ I like systems and IT
 - Linux since 2010
 - Arch Linux since 2021
 
-```quote
-<< ... no one ever mistakenly writes a letter to "Mr. 428 Elmhurst St." living at "Robert Smith."
-    A pointer is exactly the same. ... >>
-                                                                    Reek, K. (1997) Pointer on C
-```
-Suuuure so obvious 😬
-
 <!--
 **thewinterman/thewinterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
