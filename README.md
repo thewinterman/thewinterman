@@ -2,7 +2,7 @@
 
 I like systems and IT
 
-- Microsoft & MacOS since 2000
+- Windows & MacOS since 2000
 - Linux since 2010
 - Arch Linux since 2021
 
